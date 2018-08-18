@@ -1,6 +1,8 @@
 # Kalman Filter
 This filter was built as part of our ECE 4250 Digital Signal and Image Processing final project in Spring 2017.
 
+**Update:** I refactored a bit of the code and the filter now runs in a jupyter notebook (notebook is in the repo now too). This makes it easier to interact with and test than the GUI. 
+
 # Authors
 Brian Bigdelle bb586, Eric Johnson edj36
 
